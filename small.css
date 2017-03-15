@@ -1,0 +1,28 @@
+.CommonDiv{
+    height:50px;
+    background-color: #eeeeee;
+    padding: 0;
+    margin:20px;
+    float: left;
+}
+#div1,#div2{
+    width: calc((100% - 80px) / 2);
+}
+#div3{
+    width: calc(100% - 40px);
+}
+#div4,#div6{
+    width: calc((100% - 120px) / 4);
+}
+#div5{
+    width:calc((100% - 120px) / 2)
+}
+#div7,#div8{
+    width: calc((100% - 120px) / 6);
+}
+#div9{
+    width: calc(((100% - 120px) / 3) * 2);
+}
+#div10,#div11{
+    width: calc((100% - 120px) / 4);
+}
